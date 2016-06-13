@@ -1,2 +1,3 @@
-this is a applet for icfcc.
-use for electric ticket.
+This is a applet for icfcc.
+Use for electric ticket.
+2016.06.13.
